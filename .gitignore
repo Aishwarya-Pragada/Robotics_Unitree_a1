@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+maze_tmp_*.xml
+runs/
+logs/
+results/
+results_quick/

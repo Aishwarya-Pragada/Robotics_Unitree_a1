@@ -1,0 +1,12 @@
+numpy==2.4.4
+mujoco==3.8.1
+gymnasium==1.2.3
+stable-baselines3==2.8.0
+torch==2.11.0
+tensorboard==2.20.0
+# added for the final project (evaluation, plots, videos)
+pandas
+matplotlib
+tabulate
+imageio
+imageio-ffmpeg
